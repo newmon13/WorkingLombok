@@ -1,4 +1,4 @@
-package dev.jlipka.cinemahibernate.auditorium;
+package dev.jlipka.workinglombok;
 
 public enum AuditoriumType {
     REGULAR, VIP

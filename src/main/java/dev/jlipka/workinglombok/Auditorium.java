@@ -1,4 +1,4 @@
-package dev.jlipka.cinemahibernate.auditorium;
+package dev.jlipka.workinglombok;
 
 import jakarta.persistence.*;
 import lombok.*;
